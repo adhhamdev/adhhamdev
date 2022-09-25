@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Starter Projects
-- 📫 How to reach me: Twitter(@AdhhamDev) | Email(msmadhhamg@gmail.com) | Tel(+94758816748)
+- 📫 How to reach me: Twitter(@AdhhamDev) | Email(msmadhhamg@gmail.com) | Tel(+94758816738)
 
 <!---
 adhhamdev/adhhamdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
