@@ -8,4 +8,4 @@
 
 - 📫 How to reach me: Twitter(@AdhhamDev) | Email(msmadhhamg@gmail.com) | Tel(+94770355887)
 
-!["Adhham's Dev Card"](https://api.daily.dev/devcards/c6d1652e82c644189d8355c1a6e15bfb.png?r=n74)
+!["Adhham's Dev Card"](/devcard.svg)
